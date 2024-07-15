@@ -1,0 +1,79 @@
+.history-cards {
+  width: 100%;
+  background-color: #23297650;
+  padding: 20px;
+
+}
+
+.history-header {
+  height: 65px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #dddddd;
+  padding: 0px 10px;
+}
+
+.history-header h3 {
+  margin: 0;
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+.history-search {
+  border: 1px solid #ddddddb4;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.cards {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-top: 30px;
+}
+
+/* .history-card-section {
+  width: 100%;
+  height: 100%;
+  margin-top: 20px;
+  padding: 20px;
+  border: 1px solid #dddddd;
+  background-color: #23297650;
+} */
+
+/* cards section */
+
+.card-section {
+  width: 8%;
+  height: 100px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border-radius: 5px;
+  overflow: hidden;
+  padding: 8px;
+  box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2),
+    0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+}
+
+/* .card-numberData{
+  width: 100%;
+  height: 40%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  }
+  
+  .card-nameData{
+    width: 100%;
+    height: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  } */
